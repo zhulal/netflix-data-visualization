@@ -93,7 +93,9 @@ netflix-data-visualization/
 │   ├── ratings_distribution.png
 │   └── netflix_dashboard.html
 └── insights/
-    └── analysis_summary.md
+    ├── analysis_summary.md
+    └── conclusion.md
+
 ```
 
 ## How to Run
